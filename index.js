@@ -3,7 +3,7 @@ const client = new Discord.Client(
     { intents: ["GUILDS", "GUILD_MEMBERS", "GUILD_MESSAGES"],}
 )
 
-client.login("MTAyMjUwOTE0Mzg3MDk0NzQwOQ.G320_w.UOlqdcsarkpdWEWWnz-Y7Itx-VZRBtBgL91ZPM")
+client.login("token")
 
 const ytch = require("yt-channel-info")
 
