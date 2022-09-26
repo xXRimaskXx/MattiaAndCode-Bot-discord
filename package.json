@@ -1,0 +1,16 @@
+{
+  "name": "overkill",
+  "version": "1.0.0",
+  "description": "Overkill bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon node index.js"
+  },
+  "author": "Rimask",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.11.0",
+    "nodemon": "^2.0.20",
+    "yt-channel-info": "^3.1.0"
+  }
+}
